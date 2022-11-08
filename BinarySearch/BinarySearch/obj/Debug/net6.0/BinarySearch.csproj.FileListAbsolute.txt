@@ -1,0 +1,15 @@
+C:\Users\Huawei\source\repos\BinarySearch\BinarySearch\bin\Debug\net6.0\BinarySearch.exe
+C:\Users\Huawei\source\repos\BinarySearch\BinarySearch\bin\Debug\net6.0\BinarySearch.deps.json
+C:\Users\Huawei\source\repos\BinarySearch\BinarySearch\bin\Debug\net6.0\BinarySearch.runtimeconfig.json
+C:\Users\Huawei\source\repos\BinarySearch\BinarySearch\bin\Debug\net6.0\BinarySearch.dll
+C:\Users\Huawei\source\repos\BinarySearch\BinarySearch\bin\Debug\net6.0\BinarySearch.pdb
+C:\Users\Huawei\source\repos\BinarySearch\BinarySearch\obj\Debug\net6.0\BinarySearch.csproj.AssemblyReference.cache
+C:\Users\Huawei\source\repos\BinarySearch\BinarySearch\obj\Debug\net6.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huawei\source\repos\BinarySearch\BinarySearch\obj\Debug\net6.0\BinarySearch.AssemblyInfoInputs.cache
+C:\Users\Huawei\source\repos\BinarySearch\BinarySearch\obj\Debug\net6.0\BinarySearch.AssemblyInfo.cs
+C:\Users\Huawei\source\repos\BinarySearch\BinarySearch\obj\Debug\net6.0\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\source\repos\BinarySearch\BinarySearch\obj\Debug\net6.0\BinarySearch.dll
+C:\Users\Huawei\source\repos\BinarySearch\BinarySearch\obj\Debug\net6.0\refint\BinarySearch.dll
+C:\Users\Huawei\source\repos\BinarySearch\BinarySearch\obj\Debug\net6.0\BinarySearch.pdb
+C:\Users\Huawei\source\repos\BinarySearch\BinarySearch\obj\Debug\net6.0\BinarySearch.genruntimeconfig.cache
+C:\Users\Huawei\source\repos\BinarySearch\BinarySearch\obj\Debug\net6.0\ref\BinarySearch.dll

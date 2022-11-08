@@ -1,0 +1,15 @@
+C:\Users\Huawei\source\repos\ReverseWords\ReverseWords\bin\Debug\net6.0\ReverseWords.exe
+C:\Users\Huawei\source\repos\ReverseWords\ReverseWords\bin\Debug\net6.0\ReverseWords.deps.json
+C:\Users\Huawei\source\repos\ReverseWords\ReverseWords\bin\Debug\net6.0\ReverseWords.runtimeconfig.json
+C:\Users\Huawei\source\repos\ReverseWords\ReverseWords\bin\Debug\net6.0\ReverseWords.dll
+C:\Users\Huawei\source\repos\ReverseWords\ReverseWords\bin\Debug\net6.0\ReverseWords.pdb
+C:\Users\Huawei\source\repos\ReverseWords\ReverseWords\obj\Debug\net6.0\ReverseWords.csproj.AssemblyReference.cache
+C:\Users\Huawei\source\repos\ReverseWords\ReverseWords\obj\Debug\net6.0\ReverseWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huawei\source\repos\ReverseWords\ReverseWords\obj\Debug\net6.0\ReverseWords.AssemblyInfoInputs.cache
+C:\Users\Huawei\source\repos\ReverseWords\ReverseWords\obj\Debug\net6.0\ReverseWords.AssemblyInfo.cs
+C:\Users\Huawei\source\repos\ReverseWords\ReverseWords\obj\Debug\net6.0\ReverseWords.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\source\repos\ReverseWords\ReverseWords\obj\Debug\net6.0\ReverseWords.dll
+C:\Users\Huawei\source\repos\ReverseWords\ReverseWords\obj\Debug\net6.0\refint\ReverseWords.dll
+C:\Users\Huawei\source\repos\ReverseWords\ReverseWords\obj\Debug\net6.0\ReverseWords.pdb
+C:\Users\Huawei\source\repos\ReverseWords\ReverseWords\obj\Debug\net6.0\ReverseWords.genruntimeconfig.cache
+C:\Users\Huawei\source\repos\ReverseWords\ReverseWords\obj\Debug\net6.0\ref\ReverseWords.dll

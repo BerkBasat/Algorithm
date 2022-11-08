@@ -1,0 +1,15 @@
+C:\Users\Huawei\source\repos\SearchInsertPosition\SearchInsertPosition\bin\Debug\net6.0\SearchInsertPosition.exe
+C:\Users\Huawei\source\repos\SearchInsertPosition\SearchInsertPosition\bin\Debug\net6.0\SearchInsertPosition.deps.json
+C:\Users\Huawei\source\repos\SearchInsertPosition\SearchInsertPosition\bin\Debug\net6.0\SearchInsertPosition.runtimeconfig.json
+C:\Users\Huawei\source\repos\SearchInsertPosition\SearchInsertPosition\bin\Debug\net6.0\SearchInsertPosition.dll
+C:\Users\Huawei\source\repos\SearchInsertPosition\SearchInsertPosition\bin\Debug\net6.0\SearchInsertPosition.pdb
+C:\Users\Huawei\source\repos\SearchInsertPosition\SearchInsertPosition\obj\Debug\net6.0\SearchInsertPosition.csproj.AssemblyReference.cache
+C:\Users\Huawei\source\repos\SearchInsertPosition\SearchInsertPosition\obj\Debug\net6.0\SearchInsertPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huawei\source\repos\SearchInsertPosition\SearchInsertPosition\obj\Debug\net6.0\SearchInsertPosition.AssemblyInfoInputs.cache
+C:\Users\Huawei\source\repos\SearchInsertPosition\SearchInsertPosition\obj\Debug\net6.0\SearchInsertPosition.AssemblyInfo.cs
+C:\Users\Huawei\source\repos\SearchInsertPosition\SearchInsertPosition\obj\Debug\net6.0\SearchInsertPosition.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\source\repos\SearchInsertPosition\SearchInsertPosition\obj\Debug\net6.0\SearchInsertPosition.dll
+C:\Users\Huawei\source\repos\SearchInsertPosition\SearchInsertPosition\obj\Debug\net6.0\refint\SearchInsertPosition.dll
+C:\Users\Huawei\source\repos\SearchInsertPosition\SearchInsertPosition\obj\Debug\net6.0\SearchInsertPosition.pdb
+C:\Users\Huawei\source\repos\SearchInsertPosition\SearchInsertPosition\obj\Debug\net6.0\SearchInsertPosition.genruntimeconfig.cache
+C:\Users\Huawei\source\repos\SearchInsertPosition\SearchInsertPosition\obj\Debug\net6.0\ref\SearchInsertPosition.dll

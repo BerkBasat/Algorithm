@@ -1,0 +1,15 @@
+C:\Users\Huawei\source\repos\MoveZeroes\MoveZeroes\bin\Debug\net6.0\MoveZeroes.exe
+C:\Users\Huawei\source\repos\MoveZeroes\MoveZeroes\bin\Debug\net6.0\MoveZeroes.deps.json
+C:\Users\Huawei\source\repos\MoveZeroes\MoveZeroes\bin\Debug\net6.0\MoveZeroes.runtimeconfig.json
+C:\Users\Huawei\source\repos\MoveZeroes\MoveZeroes\bin\Debug\net6.0\MoveZeroes.dll
+C:\Users\Huawei\source\repos\MoveZeroes\MoveZeroes\bin\Debug\net6.0\MoveZeroes.pdb
+C:\Users\Huawei\source\repos\MoveZeroes\MoveZeroes\obj\Debug\net6.0\MoveZeroes.csproj.AssemblyReference.cache
+C:\Users\Huawei\source\repos\MoveZeroes\MoveZeroes\obj\Debug\net6.0\MoveZeroes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huawei\source\repos\MoveZeroes\MoveZeroes\obj\Debug\net6.0\MoveZeroes.AssemblyInfoInputs.cache
+C:\Users\Huawei\source\repos\MoveZeroes\MoveZeroes\obj\Debug\net6.0\MoveZeroes.AssemblyInfo.cs
+C:\Users\Huawei\source\repos\MoveZeroes\MoveZeroes\obj\Debug\net6.0\MoveZeroes.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\source\repos\MoveZeroes\MoveZeroes\obj\Debug\net6.0\MoveZeroes.dll
+C:\Users\Huawei\source\repos\MoveZeroes\MoveZeroes\obj\Debug\net6.0\refint\MoveZeroes.dll
+C:\Users\Huawei\source\repos\MoveZeroes\MoveZeroes\obj\Debug\net6.0\MoveZeroes.pdb
+C:\Users\Huawei\source\repos\MoveZeroes\MoveZeroes\obj\Debug\net6.0\MoveZeroes.genruntimeconfig.cache
+C:\Users\Huawei\source\repos\MoveZeroes\MoveZeroes\obj\Debug\net6.0\ref\MoveZeroes.dll

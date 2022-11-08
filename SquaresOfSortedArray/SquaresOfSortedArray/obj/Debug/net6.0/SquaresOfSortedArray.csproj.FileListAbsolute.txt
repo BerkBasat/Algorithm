@@ -1,0 +1,15 @@
+C:\Users\Huawei\source\repos\SquaresOfSortedArray\SquaresOfSortedArray\bin\Debug\net6.0\SquaresOfSortedArray.exe
+C:\Users\Huawei\source\repos\SquaresOfSortedArray\SquaresOfSortedArray\bin\Debug\net6.0\SquaresOfSortedArray.deps.json
+C:\Users\Huawei\source\repos\SquaresOfSortedArray\SquaresOfSortedArray\bin\Debug\net6.0\SquaresOfSortedArray.runtimeconfig.json
+C:\Users\Huawei\source\repos\SquaresOfSortedArray\SquaresOfSortedArray\bin\Debug\net6.0\SquaresOfSortedArray.dll
+C:\Users\Huawei\source\repos\SquaresOfSortedArray\SquaresOfSortedArray\bin\Debug\net6.0\SquaresOfSortedArray.pdb
+C:\Users\Huawei\source\repos\SquaresOfSortedArray\SquaresOfSortedArray\obj\Debug\net6.0\SquaresOfSortedArray.csproj.AssemblyReference.cache
+C:\Users\Huawei\source\repos\SquaresOfSortedArray\SquaresOfSortedArray\obj\Debug\net6.0\SquaresOfSortedArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huawei\source\repos\SquaresOfSortedArray\SquaresOfSortedArray\obj\Debug\net6.0\SquaresOfSortedArray.AssemblyInfoInputs.cache
+C:\Users\Huawei\source\repos\SquaresOfSortedArray\SquaresOfSortedArray\obj\Debug\net6.0\SquaresOfSortedArray.AssemblyInfo.cs
+C:\Users\Huawei\source\repos\SquaresOfSortedArray\SquaresOfSortedArray\obj\Debug\net6.0\SquaresOfSortedArray.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\source\repos\SquaresOfSortedArray\SquaresOfSortedArray\obj\Debug\net6.0\SquaresOfSortedArray.dll
+C:\Users\Huawei\source\repos\SquaresOfSortedArray\SquaresOfSortedArray\obj\Debug\net6.0\refint\SquaresOfSortedArray.dll
+C:\Users\Huawei\source\repos\SquaresOfSortedArray\SquaresOfSortedArray\obj\Debug\net6.0\SquaresOfSortedArray.pdb
+C:\Users\Huawei\source\repos\SquaresOfSortedArray\SquaresOfSortedArray\obj\Debug\net6.0\SquaresOfSortedArray.genruntimeconfig.cache
+C:\Users\Huawei\source\repos\SquaresOfSortedArray\SquaresOfSortedArray\obj\Debug\net6.0\ref\SquaresOfSortedArray.dll
