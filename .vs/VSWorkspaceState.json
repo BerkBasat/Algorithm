@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\SearchInsertPosition",
+    "\\SearchInsertPosition\\SearchInsertPosition"
   ],
-  "SelectedNode": "\\Linked List",
+  "SelectedNode": "\\SearchInsertPosition\\SearchInsertPosition\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

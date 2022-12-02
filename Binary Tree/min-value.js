@@ -16,8 +16,8 @@ class Node{
 //         const current = stack.pop();
 //         if (current.val < smallest) smallest = current.val;
 
-//         if (current.left != null) stack.push(current.left);
-//         if (current.right != null) stack.push(current.right);
+//         if (current.left !== null) stack.push(current.left);
+//         if (current.right !== null) stack.push(current.right);
 //     }
 
 //     return smallest;
@@ -34,8 +34,8 @@ class Node{
 //         const current = queue.shift();
 //         if (current.val < smallest) smallest = current.val;
 
-//         if (current.left != null) queue.push(current.left);
-//         if (current.right != null) queue.push(current.right);
+//         if (current.left !== null) queue.push(current.left);
+//         if (current.right !== null) queue.push(current.right);
 //     }
 
 //     return smallest;

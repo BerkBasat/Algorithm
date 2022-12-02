@@ -25,7 +25,7 @@ const zipperList = (head1, head2) => {
 //     let current2 = head2;
 //     let count = 0;
 
-//     while (current1 != null && current2 != null){
+//     while (current1 !== null && current2 != null){
 //         if(count % 2 === 0){
 //             tail.next = current2;
 //             current2 = current2.next;
@@ -40,8 +40,8 @@ const zipperList = (head1, head2) => {
 //         count += 1;
 //     }
 
-//     if (current1 != null) tail.next = current1;
-//     if (current2 != null) tail.next = current2;
+//     if (current1 !== null) tail.next = current1;
+//     if (current2 !== null) tail.next = current2;
 
 //     return head1;
 // };

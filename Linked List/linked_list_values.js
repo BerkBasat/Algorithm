@@ -8,7 +8,7 @@ class Node{
 // const printList = (head) => {
 //     const values = [];
 //     let current = head;
-//     while (current != null){
+//     while (current !== null){
 //         values.push(current.val);
 //         current = current.next;
 //     }
